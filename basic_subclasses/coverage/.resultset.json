@@ -1,0 +1,55 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/student/Projects/katas/basic_subclasses/spec/basic_subclasses_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Projects/katas/basic_subclasses/lib/basic_subclasses.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          2,
+          2,
+          2,
+          null
+        ]
+      }
+    },
+    "timestamp": 1597422937
+  }
+}
