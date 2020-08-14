@@ -8,6 +8,6 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 
 They are listed below:
 
-![Find Duplicates with String.match](find_duplicates)
-![Class conundrum - Bug Fixing 7](class_conundrum)
-![Basic subclasses - Adam and Eve](basic_subclasses)
+[Find Duplicates with String.match](find_duplicates)<br>
+[Class conundrum - Bug Fixing 7](class_conundrum)<br>
+[Basic subclasses - Adam and Eve](basic_subclasses)
