@@ -5,16 +5,16 @@ def num_duplicates(message)
   words = []
   message = message.gsub('.', '')
   # split on spaces and loop over each word
-  message.split(" ").each do | word |
+  message.split(" ").each do |word|
     # set each word to lower case and only accept
     # characters in the alphabet and hyphens
     word = word.downcase.match("[a-zA-Z-]*")
     # is this a dulpicate?
-    isDuplicate = words.include?(word)
+    is_duplicate = words.include?(word)
     # have we found this duplicate already?
-    alreadyFound = duplicates.include? word
+    already_found = duplicates.include? word
 
-    if(isDuplicate and !alreadyFound)
+    if (is_duplicate and !already_found)
       # new duplicate found
       duplicates << word
     end

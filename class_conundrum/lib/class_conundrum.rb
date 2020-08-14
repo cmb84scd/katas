@@ -9,6 +9,7 @@ class List
 
   def add(item)
     if item.class != @type then return "This item is not of type: #{@type}" end
+
     @items << item
     @counter += 1
     self
