@@ -11,4 +11,5 @@ They are listed below:
 [Find Duplicates with String.match](find_duplicates)<br>
 [Class conundrum - Bug Fixing 7](class_conundrum)<br>
 [Basic subclasses - Adam and Eve](basic_subclasses)<br>
-[Regexp Basics - is it a digit?](regexp_basics)
+[Regexp Basics - is it a digit?](regexp_basics)<br>
+[Finish Guess the Number Game](guess_the_number)
