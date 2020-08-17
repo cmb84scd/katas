@@ -12,4 +12,5 @@ They are listed below:
 [Class conundrum - Bug Fixing 7](class_conundrum)<br>
 [Basic subclasses - Adam and Eve](basic_subclasses)<br>
 [Regexp Basics - is it a digit?](regexp_basics)<br>
-[Finish Guess the Number Game](guess_the_number)
+[Finish Guess the Number Game](guess_the_number)<br>
+[Simple Fun 6: Is Infinite Process?](is_infinite_process)
