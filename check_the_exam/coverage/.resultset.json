@@ -1,0 +1,53 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/student/Projects/katas/check_the_exam/spec/check_the_exam_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Projects/katas/check_the_exam/lib/check_the_exam.rb": {
+        "lines": [
+          1,
+          4,
+          4,
+          null,
+          4,
+          16,
+          8,
+          8,
+          8,
+          2,
+          null,
+          6,
+          null,
+          null,
+          16,
+          null,
+          null,
+          4,
+          null
+        ]
+      }
+    },
+    "timestamp": 1597762402
+  }
+}
