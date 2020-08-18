@@ -13,4 +13,5 @@ They are listed below:
 [Basic subclasses - Adam and Eve](basic_subclasses)<br>
 [Regexp Basics - is it a digit?](regexp_basics)<br>
 [Finish Guess the Number Game](guess_the_number)<br>
-[Simple Fun 6: Is Infinite Process?](is_infinite_process)
+[Simple Fun 6: Is Infinite Process?](is_infinite_process)<br>
+[Check the exam](check_the_exam)
