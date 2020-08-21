@@ -1,0 +1,46 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/student/Library/Mobile Documents/com~apple~CloudDocs/Projects/katas/regex_failure/spec/regex_failure_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Library/Mobile Documents/com~apple~CloudDocs/Projects/katas/regex_failure/lib/regex_failure.rb": {
+        "lines": [
+          1,
+          5,
+          null
+        ]
+      }
+    },
+    "timestamp": 1598018984
+  }
+}
