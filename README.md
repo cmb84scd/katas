@@ -15,4 +15,5 @@ They are listed below:
 [Finish Guess the Number Game](guess_the_number)<br>
 [Simple Fun 6: Is Infinite Process?](is_infinite_process)<br>
 [Check the exam](check_the_exam)<br>
-[Define a card suit](define_a_card_suit)
+[Define a card suit](define_a_card_suit)<br>
+[Regex Failure - Bug Fixing 2](regex_failure)
