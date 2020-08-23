@@ -1,0 +1,29 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/student/Library/Mobile Documents/com~apple~CloudDocs/Projects/katas/unpacking_arguments/spec/unpacking_args_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Library/Mobile Documents/com~apple~CloudDocs/Projects/katas/unpacking_arguments/lib/unpacking_args.rb": {
+        "lines": [
+          1,
+          2,
+          null
+        ]
+      }
+    },
+    "timestamp": 1598177019
+  }
+}
