@@ -1,3 +1,3 @@
 def filter_words(phrase)
-  phrase.gsub(/(bad|mean|ugly|horrible|hideous)/i,"awesome")
+  phrase.gsub(/(bad|mean|ugly|horrible|hideous)/i, "awesome")
 end
