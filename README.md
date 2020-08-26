@@ -19,4 +19,5 @@ They are listed below:
 [Regex Failure - Bug Fixing 2](regex_failure)<br>
 [Unpacking Arguments](unpacking_arguments)<br>
 [Algorithmic predicament](algorithmic_predicament)<br>
-[Unexpected parsing](unexpected_parsing)
+[Unexpected parsing](unexpected_parsing)<br>
+[Find the next perfect square](find_next_perfect_square)
