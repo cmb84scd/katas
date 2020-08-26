@@ -18,4 +18,5 @@ They are listed below:
 [Define a card suit](define_a_card_suit)<br>
 [Regex Failure - Bug Fixing 2](regex_failure)<br>
 [Unpacking Arguments](unpacking_arguments)<br>
-[Algorithmic predicament](algorithmic_predicament)
+[Algorithmic predicament](algorithmic_predicament)<br>
+[Unexpected parsing](unexpected_parsing)
