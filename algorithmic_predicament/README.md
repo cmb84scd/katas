@@ -2,7 +2,7 @@
 
 This is a Codewars 7kyu kata done in Ruby.
 
-## Task
+### Task
 
 Oh no! Timmy's algorithim has gone wrong! help Timmy fix his algorithim!
 
