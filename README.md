@@ -20,4 +20,5 @@ They are listed below:
 [Unpacking Arguments](unpacking_arguments)<br>
 [Algorithmic predicament](algorithmic_predicament)<br>
 [Unexpected parsing](unexpected_parsing)<br>
-[Find the next perfect square](find_next_perfect_square)
+[Find the next perfect square](find_next_perfect_square)<br>
+[Bit Counting](bit_counting)
