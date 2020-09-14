@@ -21,4 +21,5 @@ They are listed below:
 [Algorithmic predicament](algorithmic_predicament)<br>
 [Unexpected parsing](unexpected_parsing)<br>
 [Find the next perfect square](find_next_perfect_square)<br>
-[Bit Counting](bit_counting)
+[Bit Counting](bit_counting)<br>
+[Find The Parity Outlier](find_the_parity_outlier)
