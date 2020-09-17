@@ -22,4 +22,5 @@ They are listed below:
 [Unexpected parsing](unexpected_parsing)<br>
 [Find the next perfect square](find_next_perfect_square)<br>
 [Bit Counting](bit_counting)<br>
-[Find The Parity Outlier](find_the_parity_outlier)
+[Find The Parity Outlier](find_the_parity_outlier)<br>
+[Unique In Order](unique_in_order)
