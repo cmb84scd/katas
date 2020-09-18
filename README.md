@@ -23,4 +23,5 @@ They are listed below:
 [Find the next perfect square](find_next_perfect_square)<br>
 [Bit Counting](bit_counting)<br>
 [Find The Parity Outlier](find_the_parity_outlier)<br>
-[Unique In Order](unique_in_order)
+[Unique In Order](unique_in_order)<br>
+[Playing with digits](playing_with_digits)
