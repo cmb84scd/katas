@@ -25,4 +25,5 @@ They are listed below:
 [Find The Parity Outlier](find_the_parity_outlier)<br>
 [Unique In Order](unique_in_order)<br>
 [Playing with digits](playing_with_digits)<br>
-[Who likes it?](who_likes_it)
+[Who likes it?](who_likes_it)<br>
+[Take a Ten Minute Walk](ten_minute_walk)
