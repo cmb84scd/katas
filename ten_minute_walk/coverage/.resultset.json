@@ -1,0 +1,37 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/student/Library/Mobile Documents/com~apple~CloudDocs/Projects/katas/ten_minute_walk/spec/ten_minute_walk_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Library/Mobile Documents/com~apple~CloudDocs/Projects/katas/ten_minute_walk/lib/ten_minute_walk.rb": {
+        "lines": [
+          1,
+          4,
+          null
+        ]
+      }
+    },
+    "timestamp": 1600714328
+  }
+}
