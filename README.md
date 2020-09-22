@@ -26,4 +26,5 @@ They are listed below:
 [Unique In Order](unique_in_order)<br>
 [Playing with digits](playing_with_digits)<br>
 [Who likes it?](who_likes_it)<br>
-[Take a Ten Minute Walk](ten_minute_walk)
+[Take a Ten Minute Walk](ten_minute_walk)<br>
+[Tribonacci Sequence](tribonacci_sequence)
