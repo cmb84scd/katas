@@ -28,4 +28,5 @@ They are listed below:
 [Who likes it?](who_likes_it)<br>
 [Take a Ten Minute Walk](ten_minute_walk)<br>
 [Tribonacci Sequence](tribonacci_sequence)<br>
-[Rectangle into Squares](rectangle_into_squares)
+[Rectangle into Squares](rectangle_into_squares)<br>
+[Simple Pig Latin](simple_pig_latin)
