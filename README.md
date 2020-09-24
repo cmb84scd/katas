@@ -27,4 +27,5 @@ They are listed below:
 [Playing with digits](playing_with_digits)<br>
 [Who likes it?](who_likes_it)<br>
 [Take a Ten Minute Walk](ten_minute_walk)<br>
-[Tribonacci Sequence](tribonacci_sequence)
+[Tribonacci Sequence](tribonacci_sequence)<br>
+[Rectangle into Squares](rectangle_into_squares)
