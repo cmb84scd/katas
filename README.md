@@ -29,4 +29,5 @@ They are listed below:
 [Take a Ten Minute Walk](ten_minute_walk)<br>
 [Tribonacci Sequence](tribonacci_sequence)<br>
 [Rectangle into Squares](rectangle_into_squares)<br>
-[Simple Pig Latin](simple_pig_latin)
+[Simple Pig Latin](simple_pig_latin)<br>
+[Hungarian Vowel Harmony](hungarian_vowel_harmony)
