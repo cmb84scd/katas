@@ -31,4 +31,5 @@ They are listed below:
 [Rectangle into Squares](rectangle_into_squares)<br>
 [Simple Pig Latin](simple_pig_latin)<br>
 [Hungarian Vowel Harmony](hungarian_vowel_harmony)<br>
-[Multiples of 3 or 5](multiples_3_or_5)
+[Multiples of 3 or 5](multiples_3_or_5)<br>
+[Statistics Algorithm - Calculate Mean](statistics_algorithm)
