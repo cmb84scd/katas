@@ -34,4 +34,5 @@ They are listed below:
 [Multiples of 3 or 5](multiples_3_or_5)<br>
 [Statistics Algorithm - Calculate Mean](statistics_algorithm)<br>
 [Generala - Dice Game](generala_dice_games)<br>
-[Format words into a sentence](format_words)
+[Format words into a sentence](format_words)<br>
+[Compare Arrays](compare_arrays)
