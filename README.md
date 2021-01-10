@@ -35,4 +35,5 @@ They are listed below:
 [Statistics Algorithm - Calculate Mean](statistics_algorithm)<br>
 [Generala - Dice Game](generala_dice_games)<br>
 [Format words into a sentence](format_words)<br>
-[Compare Arrays](compare_arrays)
+[Compare Arrays](compare_arrays)<br>
+[Sum two arrays](sum_two_arrays)
