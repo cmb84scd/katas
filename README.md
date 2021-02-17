@@ -37,4 +37,5 @@ They are listed below:
 [Format words into a sentence](format_words)<br>
 [Compare Arrays](compare_arrays)<br>
 [Sum two arrays](sum_two_arrays)<br>
-[Break camelCase](break_camel_case)
+[Break camelCase](break_camel_case)<br>
+[Sum of Parts](sum_of_parts)
