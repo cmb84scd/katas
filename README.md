@@ -38,4 +38,5 @@ They are listed below:
 [Compare Arrays](compare_arrays)<br>
 [Sum two arrays](sum_two_arrays)<br>
 [Break camelCase](break_camel_case)<br>
-[Sum of Parts](sum_of_parts)
+[Sum of Parts](sum_of_parts)<br>
+[Scramblies](scramblies)
