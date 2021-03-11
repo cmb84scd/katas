@@ -8,7 +8,8 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 
 Python Katas:
 
-[Take a Ten Minute Walk](ten_min_walk)
+[Take a Ten Minute Walk](ten_min_walk)<br>
+[Create Phone Number](create_phone_number)
 
 Ruby Katas:
 
