@@ -44,4 +44,5 @@ Ruby Katas:
 [Sum two arrays](sum_two_arrays)<br>
 [Break camelCase](break_camel_case)<br>
 [Sum of Parts](sum_of_parts)<br>
-[Scramblies](scramblies)
+[Scramblies](scramblies)<br>
+[Sum of positive](sum_of_positive)
