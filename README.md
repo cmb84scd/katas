@@ -6,6 +6,10 @@ This is where I'm going to store all the Katas I've done since Makers. Each one 
 
 I am aware I have added some exclusions to some of the rubocop.yml files. Normally I wouldn't do this but as these are Katas, I don't want to change them too much, hence why I am adding the odd exclusion. Otherwise, I am making sure they are linted as code standards are important to me.
 
+JavaScript Katas:
+
+[No oddities here](no_oddities_here)
+
 Python Katas:
 
 [Take a Ten Minute Walk](ten_min_walk)<br>
