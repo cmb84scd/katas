@@ -9,7 +9,8 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 JavaScript Katas:
 
 [No oddities here](no_oddities_here)<br>
-[Square Every Digit](square_every_digit)
+[Square Every Digit](square_every_digit)<br>
+[Holiday III - Fire on the boat](fire_on_the_boat)
 
 Python Katas:
 
