@@ -51,4 +51,5 @@ Ruby Katas:
 [Break camelCase](break_camel_case)<br>
 [Sum of Parts](sum_of_parts)<br>
 [Scramblies](scramblies)<br>
-[Sum of positive](sum_of_positive)
+[Sum of positive](sum_of_positive)<br>
+[Highest and Lowest](highest_and_lowest)
