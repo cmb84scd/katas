@@ -1,13 +1,10 @@
 import math
 
 def pages_numbering_with_ink(current, number_of_digits):
-  num = current
-  digits = 0
-
-  while digits < number_of_digits:
-    digits += (int(math.log10(num)) + 1)
-    if digits > number_of_digits:
+  while number_of_digits > 0:
+    number_of_digits -= (int(math.log10(current)) + 1)
+    if number_of_digits < 0:
       break
-    num += 1
+    current += 1
 
-  return num - 1
+  return current - 1
