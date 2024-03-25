@@ -1,8 +1,10 @@
 {
-  "name": "pages_numbering_with_ink_js",
   "license": "MIT",
-  "packageManager": "yarn@4.1.1",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "packageManager": "yarn@4.1.1"
 }
