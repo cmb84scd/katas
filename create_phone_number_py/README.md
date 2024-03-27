@@ -1,6 +1,6 @@
 ## Create Phone Number
 
-This is a Codewars 5kyu kata done in Python.
+This is a Codewars 6kyu kata done in Python.
 
 ### Task
 
