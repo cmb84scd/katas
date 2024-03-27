@@ -1,7 +1,8 @@
 function createPhoneNumber(numbers) {
-  const str1 = numbers.slice(0, 3).join('')
-  const str2 = numbers.slice(3, 6).join('')
-  const str3 = numbers.slice(6).join('')
-  return `(${str1}) ${str2}-${str3}`
+  /*
+  p = phone number. This is the string and for reduce() is the accumulator.
+  e = element in array.
+  */
+  return numbers.reduce((p, e) => p.replace('x', e), "(xxx) xxx-xxxx")
 }
 module.exports = createPhoneNumber;
