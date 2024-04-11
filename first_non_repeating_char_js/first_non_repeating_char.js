@@ -1,12 +1,11 @@
 function firstNonRepeatingLetter(s) {
-  const strArr = s.replaceAll(' ', '').toLowerCase().split('')
+  const str = s.toLowerCase();
 
-  for (const c in s) {
-    const count = strArr.filter(ele => ele === s.charAt(c).toLowerCase()).length
-    if (count === 1) {
-      return s.charAt(c)
+  for (const c in str) {
+    if (str.indexOf(str[c]) === str.lastIndexOf(str[c])) {
+      return s[c];
     }
   }
-  return ''
+  return "";
 }
 module.exports = firstNonRepeatingLetter;
