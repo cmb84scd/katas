@@ -22,3 +22,5 @@ lastDigit(2 ** 200, 2 ** 300)  # returns 6
 ### Notes
 
 I found the first answer of this [question](https://www.quora.com/How-do-you-calculate-the-2-last-digits-of-a-number-of-the-form-a-b-where-both-numbers-are-very-large) on Quora very helpful for solving this Kata.
+
+Interestingly, my refactored solution didn't pass all the tests on codewars so I've put it back to how it was. However, it was still good learning nonetheless.
