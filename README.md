@@ -10,12 +10,34 @@ JavaScript Katas:
 
 [No oddities here](no_oddities_here)<br>
 [Square Every Digit](square_every_digit)<br>
-[Holiday III - Fire on the boat](fire_on_the_boat)
+[Holiday III - Fire on the boat](fire_on_the_boat)<br>
+[Pages numbering with ink](pages_numbering_with_ink_js)<br>
+[Simple reversed parenthesis](simple_reversed_parenthesis_js)<br>
+[Find The Duplicated Number in a Consecutive Unsorted List - Tougher Version](find_the_duplicated_num_js)<br>
+[Create Phone Number](create_phone_number_js)<br>
+[The Hashtag Generator](hashtag_generator_js)<br>
+[Human Readable Time](human_readable_time_js)<br>
+[Find the odd int](find_the_odd_int_js)<br>
+[Last digit of a large number](last_digit_of_large_no_js)<br>
+[First non-repeating character](first_non_repeating_char_js)<br>
+[Roman Numerals Encoder](roman_numerals_encoder_js)<br>
+[Greed is Good](greed_is_good_js)
 
 Python Katas:
 
 [Take a Ten Minute Walk](ten_min_walk)<br>
-[Create Phone Number](create_phone_number)
+[Create Phone Number](create_phone_number)<br>
+[Pages numbering with ink](pages_numbering_with_ink_py)<br>
+[Simple reversed parenthesis](simple_reversed_parenthesis_py)<br>
+[Find The Duplicated Number in a Consecutive Unsorted List - Tougher Version](find_the_duplicated_num_py)<br>
+[Create Phone Number](create_phone_number_py)<br>
+[The Hashtag Generator](hashtag_generator_py)<br>
+[Human Readable Time](human_readable_time_py)<br>
+[Find the odd int](find_the_odd_int_py)<br>
+[Last digit of a large number](last_digit_of_large_no_py)<br>
+[First non-repeating character](first_non_repeating_char_py)<br>
+[Roman Numerals Encoder](roman_numerals_encoder_py)<br>
+[Greed is Good](greed_is_good_py)
 
 Ruby Katas:
 
