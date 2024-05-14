@@ -1,6 +1,6 @@
 ## Last digit of a large number
 
-This is a Codewars 5kyu kata done in Python.
+This is a Codewars 5kyu kata done in JavaScript.
 
 ### Task
 
