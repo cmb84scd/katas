@@ -21,7 +21,9 @@ JavaScript Katas:
 [Last digit of a large number](last_digit_of_large_no_js)<br>
 [First non-repeating character](first_non_repeating_char_js)<br>
 [Roman Numerals Encoder](roman_numerals_encoder_js)<br>
-[Greed is Good](greed_is_good_js)
+[Greed is Good](greed_is_good_js)<br>
+[Efficient Power Modulo n](efficient_power_modulo_n_js)<br>
+[Moving Zeros To The End](move_zeros_to_the_end_js)
 
 Python Katas:
 
@@ -37,7 +39,9 @@ Python Katas:
 [Last digit of a large number](last_digit_of_large_no_py)<br>
 [First non-repeating character](first_non_repeating_char_py)<br>
 [Roman Numerals Encoder](roman_numerals_encoder_py)<br>
-[Greed is Good](greed_is_good_py)
+[Greed is Good](greed_is_good_py)<br>
+[Efficient Power Modulo n](efficient_power_modulo_n_py)<br>
+[Moving Zeros To The End](move_zeros_to_the_end_py)
 
 Ruby Katas:
 
