@@ -1,50 +1,18 @@
 def solve(s):
-    length = len(s)
-    res = [None] * length
-    index = 0
-    i = 0
-    stack = [0]
+    res, op, stack = "", 1, [1]
 
-    while i < length:
-        if s[i] == "+":
-            if stack[-1] == 1:
-                res[index] = "-"
-                index += 1
-            if stack[-1] == 0:
-                res[index] = "+"
-                index += 1
-        elif s[i] == "-":
-            if stack[-1] == 1:
-                res[index] = "+"
-                index += 1
-            if stack[-1] == 0:
-                res[index] = "-"
-                index += 1
-        elif s[i] == "(" and i > 0:
-            if s[i - 1] == "-":
-                x = 0 if stack[-1] == 1 else 1
-                stack.append(x)
-            elif s[i - 1] == "+":
-                stack.append(stack[-1])
-        elif stack and s[i] == ")":
+    for x in s:
+        if x == "(":
+            stack.append(op)
+        elif x == ")":
             stack.pop()
+        elif x == "+":
+            op = stack[-1]
+        elif x == "-":
+            op = -stack[-1]
         else:
-            res[index] = s[i]
-            index += 1
-        i += 1
+            if res or op != 1:
+                res += "+" if op == 1 else "-"
+            res += x
 
-    res = [x for x in res if x not in ["(", ")", None]]
-    result = []
-
-    for x in range(len(res)):
-        if res[x] == "+" and res[x + 1] == "-":
-            continue
-        elif res[x] == "-" and res[x + 1] == "+":
-            continue
-        else:
-            result.append(res[x])
-
-    if result[0] == "+":
-        result.pop(0)
-
-    return "".join(result)
+    return res
