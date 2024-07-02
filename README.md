@@ -23,7 +23,8 @@ JavaScript Katas:
 [Roman Numerals Encoder](roman_numerals_encoder_js)<br>
 [Greed is Good](greed_is_good_js)<br>
 [Efficient Power Modulo n](efficient_power_modulo_n_js)<br>
-[Moving Zeros To The End](move_zeros_to_the_end_js)
+[Moving Zeros To The End](move_zeros_to_the_end_js)<br>
+[Simple parenthesis removal](simple_parenthesis_removal_js)
 
 Python Katas:
 
@@ -41,7 +42,8 @@ Python Katas:
 [Roman Numerals Encoder](roman_numerals_encoder_py)<br>
 [Greed is Good](greed_is_good_py)<br>
 [Efficient Power Modulo n](efficient_power_modulo_n_py)<br>
-[Moving Zeros To The End](move_zeros_to_the_end_py)
+[Moving Zeros To The End](move_zeros_to_the_end_py)<br>
+[Simple parenthesis removal](simple_parenthesis_removal_py)
 
 Ruby Katas:
 
