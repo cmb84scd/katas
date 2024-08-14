@@ -1,12 +1,9 @@
 def digitwise_addition(n, k):
     MOD = 10**9 + 7
-    digits = [0] * 10
+    digits = [str(n).count(str(i)) for i in range(10)]
 
-    for digit in str(n):
-        digits[int(digit)] += 1
-
-    for i in range(k):
-        i = -i % 10
-        digits[i] = (digits[i] + digits[i - 1]) % MOD
+    for _ in range(k):
+        digits = digits[9:] + digits[:9]
+        digits[1] = (digits[1] + digits[0]) % MOD
 
     return sum(digits) % MOD
