@@ -10,7 +10,7 @@ Complete the `find_next_square` method that finds the next integral perfect squa
 
 If the parameter is itself not a perfect square then `-1` should be returned. You may assume the parameter is positive.
 
-```
+```text
 Examples:
 
 find_next_square(121) --> returns 144

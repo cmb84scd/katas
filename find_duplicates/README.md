@@ -10,6 +10,6 @@ However, you decided to write two test cases and found a bug! Oh no!
 
 The first test case works fine, but the second one fails. Can you figure out what went wrong?
 
-##### Notes
+#### Notes
 
 Some variable names have been adjusted slightly so that they conform to Ruby naming convention.
