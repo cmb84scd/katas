@@ -6,7 +6,7 @@ This is a Codewars 5kyu kata done in JavaScript.
 
 In this Kata, you will be given a expression string and your task will be to remove all braces as follows:
 
-```
+```text
 solve("x-(y+z)") = "x-y-z"
 solve("x-(y-z)") = "x-y+z"
 solve("u-(v-w-(x+y))-z") = "u-v+w+x+y-z"

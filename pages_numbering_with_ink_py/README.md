@@ -13,27 +13,33 @@ A page is considered numbered if it has the full number printed on it (e.g. if w
 It's guaranteed that you can number the current page, and that you can't number the last one in the book.
 
 Example:
-```
+
+```text
 For current = 1 and number_of_digits = 5, the output should be 5, with numbers 1, 2, 3, 4, 5 printed.
 ```
-```
+
+```text
 For current = 21 and number_of_digits = 5, the output should be 22, with numbers 21, 22 printed.
 ```
-```
+
+```text
 For current = 8 and number_of_digits = 4, the output should be 10, with numbers 8, 9, 10 printed.
 ```
 
 Input/Output:
-```
+
+```text
 [input] integer current = A positive integer, the number on the current page which is not yet printed.
 
 Constraints: 1 ≤ current ≤ 1000
 ```
-```
+
+```text
 [input] integer number_of_digits = A positive integer, the number of digits which your printer can print.
 
 Constraints: 1 ≤ number_of_digits ≤ 1000
 ```
-```
+
+```text
 [output] an integer = The last printed page number.
 ```

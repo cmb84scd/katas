@@ -16,10 +16,12 @@ You will be given two dimensions
 2. a positive integer width (parameter named wdth)
 
 You will return an array with the size of each of the squares.
-```
+
+```text
   sqInRect(5, 3) should return [3, 2, 1, 1]
   sqInRect(3, 5) should return [3, 2, 1, 1]
 ```
+
 Notes:
 lng == wdth as a starting case would be an entirely different problem and the drawing is planned to be interpreted with `lng != wdth`.
 
