@@ -14,7 +14,8 @@ Here's the deal:
 - If the input or the result is an empty string it must return `False`.
 
 Examples:
-```
+
+```text
 " Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
 "    Hello     World   "                  =>  "#HelloWorld"
 ""                                        =>  false

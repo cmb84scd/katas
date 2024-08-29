@@ -11,11 +11,13 @@ Your goal is to create a function `dative()` which returns the valid form of a v
 #### Vowel Harmony Rules (simplified)
 
 When the last vowel in the word is
+
 1. a front vowel `(e, é, i, í, ö, ő, ü, ű)` the suffix is `-nek`
 2. a back vowel `(a, á, o, ó, u, ú)` the suffix is `-nak`
 
 Examples:
-```
+
+```text
 dative("ablak") == "ablaknak"
 dative("szék") == "széknek"
 dative("otthon") == "otthonnak"

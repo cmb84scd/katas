@@ -11,7 +11,8 @@ For example, the last decimal digit of $9^7$ is 9, since $9^7$ = 4782969. The la
 You may assume that the input will always be valid.
 
 Examples
-```
+
+```text
 lastDigit(4, 1)                # returns 4
 lastDigit(4, 2)                # returns 6
 lastDigit(9, 7)                # returns 9
