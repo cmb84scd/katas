@@ -26,6 +26,7 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 - [Moving Zeros To The End](move_zeros_to_the_end_js)
 - [Simple parenthesis removal](simple_parenthesis_removal_js)
 - [Digitwise addition](digitwise_addition_js)
+- [Next smaller number with the same digits](next_smaller_num_js)
 
 ### Python Katas
 
@@ -46,6 +47,7 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 - [Moving Zeros To The End](move_zeros_to_the_end_py)
 - [Simple parenthesis removal](simple_parenthesis_removal_py)
 - [Digitwise addition](digitwise_addition_py)
+- [Next smaller number with the same digits](next_smaller_num_py)
 
 ### Ruby Katas
 
