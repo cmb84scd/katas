@@ -27,6 +27,7 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 - [Simple parenthesis removal](simple_parenthesis_removal_js)
 - [Digitwise addition](digitwise_addition_js)
 - [Next smaller number with the same digits](next_smaller_num_js)
+- [Delete occurrences of an element if it occurs more than n times](delete_occurrences_js)
 
 ### Python Katas
 
@@ -48,6 +49,7 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 - [Simple parenthesis removal](simple_parenthesis_removal_py)
 - [Digitwise addition](digitwise_addition_py)
 - [Next smaller number with the same digits](next_smaller_num_py)
+- [Delete occurrences of an element if it occurs more than n times](delete_occurrences_py)
 
 ### Ruby Katas
 
