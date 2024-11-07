@@ -1,13 +1,8 @@
 function deleteNth(arr, n) {
-  const elementDict = {}
   let result = []
 
   arr.forEach(e => {
-    if (elementDict[e] < n) {
-      elementDict[e]++
-      result.push(e)
-    } else if (!(e in elementDict)) {
-      elementDict[e] = 1
+    if (result.filter(i => i === e).length < n) {
       result.push(e)
     }
   })
