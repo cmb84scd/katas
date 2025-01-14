@@ -28,6 +28,8 @@ I am aware I have added some exclusions to some of the rubocop.yml files. Normal
 - [Digitwise addition](digitwise_addition_js)
 - [Next smaller number with the same digits](next_smaller_num_js)
 - [Delete occurrences of an element if it occurs more than n times](delete_occurrences_js)
+- [Positive to negative binary numbers](pos_to_neg_binary_nums_js)
+- [Binary Calculator](binary_calculator_js)
 
 ### Python Katas
 
