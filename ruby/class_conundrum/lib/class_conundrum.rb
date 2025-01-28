@@ -4,7 +4,6 @@ class List
     @type = type
     @items = []
     @counter = 0
-    self
   end
 
   def add(item)
@@ -12,6 +11,7 @@ class List
 
     @items << item
     @counter += 1
-    self
   end
 end
+
+# nb: I removed self from the above as rubocop said it was unnecessary.

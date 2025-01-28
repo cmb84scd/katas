@@ -5,12 +5,15 @@ describe List do
 
   describe '#add' do
     it 'returns a count of 1' do
-      expect(my_list.add('Hello').counter).to eq 1
+      my_list.add('Hello')
+      expect(my_list.counter).to eq 1
     end
 
     it 'returns a count of 3' do
       my_list.add('Hello')
-      expect(my_list.add(' ').add('World!').counter).to eq 3
+      my_list.add(' ')
+      my_list.add('World!')
+      expect(my_list.counter).to eq 3
     end
 
     it 'checks if item is of type' do
@@ -18,3 +21,6 @@ describe List do
     end
   end
 end
+
+# I had to amend the first 2 tests as a result of removing self from the code.
+# With self removed, I couldn't chain the adds together.
