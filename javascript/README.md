@@ -1,0 +1,26 @@
+# JavaScript Katas
+
+This folders contains all the Katas I've done in JavaScript. They are listed below for ease of searching.
+
+- [No oddities here](no_oddities_here)
+- [Square Every Digit](square_every_digit)
+- [Holiday III - Fire on the boat](fire_on_the_boat)
+- [Pages numbering with ink](pages_numbering_with_ink)
+- [Simple reversed parenthesis](simple_reversed_parenthesis)
+- [Find The Duplicated Number in a Consecutive Unsorted List - Tougher Version](find_the_duplicated_num)
+- [Create Phone Number](create_phone_number)
+- [The Hashtag Generator](hashtag_generator)
+- [Human Readable Time](human_readable_time)
+- [Find the odd int](find_the_odd_int)
+- [Last digit of a large number](last_digit_of_large_no)
+- [First non-repeating character](first_non_repeating_char)
+- [Roman Numerals Encoder](roman_numerals_encoder)
+- [Greed is Good](greed_is_good)
+- [Efficient Power Modulo n](efficient_power_modulo_n)
+- [Moving Zeros To The End](move_zeros_to_the_end)
+- [Simple parenthesis removal](simple_parenthesis_removal)
+- [Digitwise addition](digitwise_addition)
+- [Next smaller number with the same digits](next_smaller_num)
+- [Delete occurrences of an element if it occurs more than n times](delete_occurrences)
+- [Positive to negative binary numbers](pos_to_neg_binary_nums)
+- [Binary Calculator](binary_calculator)
