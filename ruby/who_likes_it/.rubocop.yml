@@ -1,5 +1,4 @@
+inherit_from: ../.rubocop.yml
+
 Metrics:
   Enabled: false
-  
-inherit_from:
-  - https://raw.githubusercontent.com/makersacademy/scaffolint/v1.1.0/.rubocop.yml

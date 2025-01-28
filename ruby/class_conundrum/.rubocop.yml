@@ -1,5 +1,4 @@
-Void:
-  Enabled: false
+inherit_from: ../.rubocop.yml
 
-inherit_from:
-  - https://raw.githubusercontent.com/makersacademy/scaffolint/v1.1.0/.rubocop.yml
+Lint/Void:
+  Enabled: false
