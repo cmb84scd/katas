@@ -24,3 +24,5 @@ This folders contains all the Katas I've done in JavaScript. They are listed bel
 - [Delete occurrences of an element if it occurs more than n times](delete_occurrences)
 - [Positive to negative binary numbers](pos_to_neg_binary_nums)
 - [Binary Calculator](binary_calculator)
+- [Functional Addition](functional_addition)
+- [Jaden Casing Strings](jaden_casing_strings)
