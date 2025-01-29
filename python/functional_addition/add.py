@@ -6,3 +6,8 @@ def add(n: int) -> Callable:
         return n + m
 
     return inner_add
+
+
+# Could also be done like this:
+# def add(n):
+#     return lambda m: n + m
