@@ -21,3 +21,8 @@ def unusual_sort(array):
                 num_list[i], num_list[i + 1] = num_list[i + 1], num_list[i]
 
     return str_list + num_list
+
+
+# The above is my version and the below is a one line alternative
+# def unusual_sort(array):
+#     return sorted(array, key=lambda x: (str(x).isdigit(), str(x), isinstance(x, str)))
