@@ -19,7 +19,7 @@ So, the function you'll have to code will return a sorted `letters` as usual, bu
 // ... but ...
 ["1","z","a"] --> ["a","z","1"]
 ["1","Z","a"] --> ["Z","a","1"]
-[3,2,1"a","z","b"] --> ["a","b","z",1,2,3]
+[3,2,1,"a","z","b"] --> ["a","b","z",1,2,3]
 [3,"2",1,"a","c","b"] --> ["a","b","c",1,"2",3]
 ```
 
