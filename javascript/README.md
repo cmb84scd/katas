@@ -27,3 +27,5 @@ This folders contains all the Katas I've done in JavaScript. They are listed bel
 - [Functional Addition](functional_addition)
 - [Jaden Casing Strings](jaden_casing_strings)
 - [Counting Duplicates](counting_duplicates)
+- [UN-usual Sort](unusual_sort)
+- [Mirror, mirror, on the wall...](mirror_mirror)
