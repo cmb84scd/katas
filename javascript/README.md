@@ -29,3 +29,4 @@ This folders contains all the Katas I've done in JavaScript. They are listed bel
 - [Counting Duplicates](counting_duplicates)
 - [UN-usual Sort](unusual_sort)
 - [Mirror, mirror, on the wall...](mirror_mirror)
+- [Find min and max](find_min_and_max)

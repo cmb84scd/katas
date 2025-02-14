@@ -28,3 +28,4 @@ This folders contains all the Katas I've done in Python. They are listed below f
 - [Counting Duplicates](counting_duplicates)
 - [UN-usual Sort](unusual_sort)
 - [Mirror, mirror, on the wall...](mirror_mirror)
+- [Find min and max](find_min_and_max)
