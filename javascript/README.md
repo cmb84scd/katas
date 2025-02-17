@@ -30,3 +30,5 @@ This folders contains all the Katas I've done in JavaScript. They are listed bel
 - [UN-usual Sort](unusual_sort)
 - [Mirror, mirror, on the wall...](mirror_mirror)
 - [Find min and max](find_min_and_max)
+- [Is a number prime?](is_a_number_prime)
+- [Next Prime](next_prime)
