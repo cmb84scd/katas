@@ -1,0 +1,13 @@
+## Substituting Variables Into Strings: Padded Numbers
+
+This is a Codewars 7kyu kata done in Python.
+
+### Task
+
+Complete the solution so that it returns a formatted string. The return value should equal "Value is VALUE" where value is a 5 digit padded number.
+
+### Example:
+
+```text
+solution(5); // should return "Value is 00005"
+```
