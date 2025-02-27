@@ -31,3 +31,5 @@ This folders contains all the Katas I've done in Python. They are listed below f
 - [Find min and max](find_min_and_max)
 - [Is a number prime?](is_a_number_prime)
 - [Next Prime](next_prime)
+- [Highest Scoring Word](highest_scoring_prime)
+- [Playing with passphrases](playing_with_passphrases)
