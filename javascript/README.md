@@ -34,3 +34,5 @@ This folders contains all the Katas I've done in JavaScript. They are listed bel
 - [Next Prime](next_prime)
 - [Highest Scoring Word](highest_scoring_word)
 - [Playing with passphrases](playing_with_passphrases)
+- [Parts of a list](parts_of_a_list)
+- [Substituting Variables Into Strings: Padded Numbers](substituting_vars)
