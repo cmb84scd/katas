@@ -1,7 +1,13 @@
 def is_isogram(string):
-    unq_str = set(string.lower())
+    return len(string) == len(set(string.lower()))
 
-    if len(unq_str) != len(string):
-        return False
 
-    return True
+# Below is my original answer and above is my rafactored one
+
+# def is_isogram(string):
+#     unq_str = set(string.lower())
+
+#     if len(unq_str) != len(string):
+#         return False
+
+#     return True
