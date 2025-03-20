@@ -36,3 +36,5 @@ This folders contains all the Katas I've done in JavaScript. They are listed bel
 - [Playing with passphrases](playing_with_passphrases)
 - [Parts of a list](parts_of_a_list)
 - [Substituting Variables Into Strings: Padded Numbers](substituting_vars)
+- [Isograms](isograms)
+- [Decode the Morse code](decode_the_morse_code)
