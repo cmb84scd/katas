@@ -38,3 +38,5 @@ This folders contains all the Katas I've done in JavaScript. They are listed bel
 - [Substituting Variables Into Strings: Padded Numbers](substituting_vars)
 - [Isograms](isograms)
 - [Decode the Morse code](decode_the_morse_code)
+- [RGB To Hex Conversion](rgb_to_hex_conversion)
+- [Split Strings](split_strings)
